@@ -1,2 +1,5 @@
 # hello
-Just another repository
+
+Hi Humans!
+
+Today is a good day.
